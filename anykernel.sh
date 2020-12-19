@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Frost Kernel EAS by frost_id @ telegram
+kernel.string=#UNubSarGang Kernel EAS by frost_id @ telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
