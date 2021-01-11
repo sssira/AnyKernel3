@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Moonlight Kernel EAS for whyred - by frost_id @ telegram
+kernel.string=DaVinci Kernel for X01BD - by frost_id @ telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=whyred
+device.name1=X01BD
 supported.versions=
 supported.patchlevels=
 '; } # end properties
