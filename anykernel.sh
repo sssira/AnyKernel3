@@ -4,14 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Moonlight Kernel EAS - by frost_id @ telegram
+kernel.string=Prooholic Kranul by Prooholic @telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=whyred
-device.name2=lavender
 supported.versions=
 supported.patchlevels=
 '; } # end properties
